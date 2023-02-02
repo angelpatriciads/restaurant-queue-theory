@@ -1,4 +1,4 @@
-# Mobility Correlation Analysis on Indonesian Daily Positivity Rate using Multivariate Regression
+# Queueing Theory Implementation to Queue at a Restaurant
 
 #### -- Project Status: Completed
 
